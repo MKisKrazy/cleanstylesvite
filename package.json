@@ -1,0 +1,28 @@
+{
+  "name": "cleanstylesvite",
+  "version": "1.0.0",
+  "description": "cleanstylesvite is a cli tool designed to reset the standard styles and main component template in a vite+React project",
+  "main": "cleanstylesvite.js",
+  "type": "module",
+  "bin": "./cleanstylesvite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKisKrazy/cleanstylesvite.git"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "vite",
+    "clean",
+    "cleanstyles"
+  ],
+  "author": "Mahesh krishna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MKisKrazy/cleanstylesvite/issues"
+  },
+  "homepage": "https://github.com/MKisKrazy/cleanstylesvite#readme"
+}
