@@ -1,6 +1,6 @@
 {
   "name": "cleanstylesvite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cleanstylesvite is a cli tool designed to reset the standard styles and main component template in a vite+React project",
   "main": "cleanstylesvite.js",
   "type": "module",
